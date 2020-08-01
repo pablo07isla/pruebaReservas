@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"nombre": "cancha1",
+		"tipo": "cuadruple",
+		"descripcion": "",
+		"precio": 150000,
+		"reservas": [
+			{ "id": 1, "fechaIng": "15-08-2020", "fechaSalid": "16-08-2020" },
+			{ "id": 2, "fechaIng": "17/08/2020", "fechaSalid": "18/08/2020" },
+			{ "id": 3, "fechaIng": "20/08/2020", "fechaSalid": "25/08/2020" }
+		]
+	},
+	{
+		"id": 2,
+		"nombre": "mirador",
+		"tipo": "doble",
+		"descripcion": "",
+		"precio": 100000,
+		"reservas": [
+			{ "id": 6, "fechaIng": "20-08-2020", "fechaSalid": "16-08-2020" },
+			{ "id": 7, "fechaIng": "25/08/2020", "fechaSalid": "18/08/2020" },
+			{ "id": 8, "fechaIng": "30/08/2020", "fechaSalid": "25/08/2020" }
+		]
+	},
+	{
+		"id": 3,
+		"nombre": "paises",
+		"tipo": "ocho",
+		"descripcion": "",
+		"precio": 300000,
+		"reservas": [
+			{ "id": 10, "fechaIng": "16-08-2020", "fechaSalid": "16-08-2020" },
+			{ "id": 11, "fechaIng": "18/08/2020", "fechaSalid": "18/08/2020" },
+			{ "id": 12, "fechaIng": "22/08/2020", "fechaSalid": "25/08/2020" }
+		]
+	}
+]
